@@ -1,2 +1,2 @@
 # Pygame_Space_game
-jogo simples de nave 
+just a simple game
